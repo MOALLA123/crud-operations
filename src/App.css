@@ -1,0 +1,17 @@
+.sidebar{
+
+  background-color:rgb(154 161 171 / 25%);
+  height: 100vh;
+}
+
+.sidebar li{
+padding:10px 5px;
+text-align: center;
+
+}
+
+.sidebar li a{
+text-decoration: none;
+
+}
+
